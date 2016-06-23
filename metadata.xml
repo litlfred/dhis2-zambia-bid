@@ -2802,146 +2802,8 @@
       <zeroIsSignificant>false</zeroIsSignificant>
     </dataElement>
   </dataElements>
-  <organisationUnits>
-    <organisationUnit name="Zambia" created="2015-11-05T19:50:51.203+0000" lastUpdated="2015-11-05T19:50:51.214+0000" shortName="Zambia" uuid="c4a10287-4cb7-4c33-b051-6dadfa4fbfd7" id="AyKRxtQjpGg" level="1">
-      <externalAccess>false</externalAccess>
-      <description/>
-      <path>/AyKRxtQjpGg</path>
-      <openingDate>2015-11-05</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Southern Province" created="2015-11-05T19:51:11.305+0000" lastUpdated="2015-11-05T19:51:11.309+0000" shortName="Southern Province" uuid="f2e2e229-e371-4193-8258-82427e642a48" id="MClooR8Tjs6" level="2">
-      <externalAccess>false</externalAccess>
-      <description/>
-      <parent name="Zambia" created="2015-11-05T19:50:51.203+0000" lastUpdated="2015-11-05T19:50:51.214+0000" id="AyKRxtQjpGg">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/MClooR8Tjs6</path>
-      <openingDate>2015-11-05</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Livingstone District" created="2015-11-05T19:51:28.631+0000" lastUpdated="2015-11-05T19:51:28.636+0000" shortName="Livingstone District" uuid="a5b695d3-332f-468d-9c5c-adf34c03665c" id="GUhbn1R8q6w" level="3">
-      <externalAccess>false</externalAccess>
-      <description/>
-      <parent name="Southern Province" created="2015-11-05T19:51:11.305+0000" lastUpdated="2015-11-05T19:51:11.309+0000" id="MClooR8Tjs6">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/MClooR8Tjs6/GUhbn1R8q6w</path>
-      <openingDate>2015-11-05</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Victoria Falls Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2015-11-05T19:52:39.483+0000" shortName="Victoria Falls Clinic" uuid="7950dc29-1b90-4a5e-9fe9-5bd337357d64" id="LWjoKmGc00n" level="4">
-      <externalAccess>false</externalAccess>
-      <description/>
-      <parent name="Livingstone District" created="2015-11-05T19:51:28.631+0000" lastUpdated="2015-11-05T19:51:28.636+0000" id="GUhbn1R8q6w">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/MClooR8Tjs6/GUhbn1R8q6w/LWjoKmGc00n</path>
-      <openingDate>2015-11-05</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Simoonga Clinic" created="2015-11-05T19:52:55.764+0000" lastUpdated="2015-11-05T19:52:55.768+0000" shortName="Simoonga Clinic" uuid="46ae74dd-eb56-4713-b9f4-464fe934e452" id="ozvn5V1CkYM" level="4">
-      <externalAccess>false</externalAccess>
-      <description/>
-      <parent name="Livingstone District" created="2015-11-05T19:51:28.631+0000" lastUpdated="2015-11-05T19:51:28.636+0000" id="GUhbn1R8q6w">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/MClooR8Tjs6/GUhbn1R8q6w/ozvn5V1CkYM</path>
-      <openingDate>2015-11-05</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Linda Clinic" created="2015-11-05T19:52:29.092+0000" lastUpdated="2016-05-13T13:55:03.787+0000" shortName="Linda Clinic" uuid="6d7b4943-b4bb-4cf9-bbe8-5d46e53fcb89" id="DQjaNvP9ulw" level="4">
-      <externalAccess>false</externalAccess>
-      <parent name="Livingstone District" created="2015-11-05T19:51:28.631+0000" lastUpdated="2015-11-05T19:51:28.636+0000" id="GUhbn1R8q6w">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/MClooR8Tjs6/GUhbn1R8q6w/DQjaNvP9ulw</path>
-      <openingDate>2015-11-05</openingDate>
-      <featureType>NONE</featureType>
-      <phoneNumber/>
-    </organisationUnit>
-    <organisationUnit name="Mahatma Gandhi Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2016-05-13T14:10:31.938+0000" shortName="Mahatma Gandhi Clinic" uuid="b29ccb39-9a10-4306-b921-4ebc4a0ea423" id="onQXFD1z01A" level="4">
-      <externalAccess>false</externalAccess>
-      <description/>
-      <parent name="Livingstone District" created="2015-11-05T19:51:28.631+0000" lastUpdated="2015-11-05T19:51:28.636+0000" id="GUhbn1R8q6w">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/MClooR8Tjs6/GUhbn1R8q6w/onQXFD1z01A</path>
-      <openingDate>2015-11-05</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Maramba Clinic" created="2015-11-05T19:52:16.689+0000" lastUpdated="2016-05-13T14:17:55.197+0000" shortName="Maramba Clinic" uuid="77fe9d6b-c79b-46ef-92bd-1a32c03026d3" id="WxEt7wHRNeW" level="4">
-      <externalAccess>false</externalAccess>
-      <description/>
-      <parent name="Livingstone District" created="2015-11-05T19:51:28.631+0000" lastUpdated="2015-11-05T19:51:28.636+0000" id="GUhbn1R8q6w">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/MClooR8Tjs6/GUhbn1R8q6w/WxEt7wHRNeW</path>
-      <openingDate>2015-11-05</openingDate>
-      <featureType>NONE</featureType>
-      <phoneNumber>65464536</phoneNumber>
-    </organisationUnit>
-    <organisationUnit name="Libuyu Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2016-05-19T12:30:32.362+0000" shortName="Libuyu Clinic" uuid="afb2f934-3f16-4f0d-b79c-d58d40824361" id="UXJOGvwTTrd" level="4">
-      <externalAccess>false</externalAccess>
-      <description/>
-      <parent name="Livingstone District" created="2015-11-05T19:51:28.631+0000" lastUpdated="2015-11-05T19:51:28.636+0000" id="GUhbn1R8q6w">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/MClooR8Tjs6/GUhbn1R8q6w/UXJOGvwTTrd</path>
-      <openingDate>2015-11-05</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Test Province" created="2016-06-02T18:30:24.307+0000" lastUpdated="2016-06-02T18:30:24.596+0000" shortName="Test Province" uuid="de5a811b-d134-4a12-ac44-1d9a6158f9b6" id="qTqXJZgCDaO" level="2">
-      <externalAccess>false</externalAccess>
-      <parent name="Zambia" created="2015-11-05T19:50:51.203+0000" lastUpdated="2015-11-05T19:50:51.214+0000" id="AyKRxtQjpGg">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/qTqXJZgCDaO</path>
-      <openingDate>2000-06-01</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Test District" created="2016-06-02T18:30:46.660+0000" lastUpdated="2016-06-02T18:30:46.831+0000" shortName="Test District" uuid="9e9af482-ef56-4e40-b3ec-159c86a63b85" id="mm5bbNSwXAx" level="3">
-      <externalAccess>false</externalAccess>
-      <parent name="Test Province" created="2016-06-02T18:30:24.307+0000" lastUpdated="2016-06-02T18:30:24.596+0000" id="qTqXJZgCDaO">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/qTqXJZgCDaO/mm5bbNSwXAx</path>
-      <openingDate>2000-06-01</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Test Clinic 1" created="2016-06-02T18:31:11.426+0000" lastUpdated="2016-06-03T09:25:57.628+0000" shortName="Test Clinic 1" uuid="93be9c21-6f94-4ffb-80c8-6fcf4f0ac4f8" id="PfYyF3qDRTi" level="4">
-      <externalAccess>false</externalAccess>
-      <parent name="Test District" created="2016-06-02T18:30:46.660+0000" lastUpdated="2016-06-02T18:30:46.831+0000" id="mm5bbNSwXAx">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/qTqXJZgCDaO/mm5bbNSwXAx/PfYyF3qDRTi</path>
-      <openingDate>2000-06-01</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-    <organisationUnit name="Test Clinic 2" created="2016-06-02T18:31:11.426+0000" lastUpdated="2016-06-03T09:26:17.276+0000" shortName="Test Clinic 2" uuid="7cd97eaa-0b4a-423a-8640-c7c01848ff59" id="cPsaTUefLki" level="4">
-      <externalAccess>false</externalAccess>
-      <parent name="Test District" created="2016-06-02T18:30:46.660+0000" lastUpdated="2016-06-02T18:30:46.831+0000" id="mm5bbNSwXAx">
-        <externalAccess>false</externalAccess>
-      </parent>
-      <path>/AyKRxtQjpGg/qTqXJZgCDaO/mm5bbNSwXAx/cPsaTUefLki</path>
-      <openingDate>2000-06-01</openingDate>
-      <featureType>NONE</featureType>
-    </organisationUnit>
-  </organisationUnits>
-  <organisationUnitLevels>
-    <organisationUnitLevel name="Level 4" created="2015-11-05T20:44:46.160+0000" lastUpdated="2015-11-05T20:44:46.160+0000" level="4" id="gHyVHB4O8k3">
-      <externalAccess>false</externalAccess>
-    </organisationUnitLevel>
-    <organisationUnitLevel name="Level 1" created="2015-11-05T20:44:46.164+0000" lastUpdated="2015-11-05T20:44:46.164+0000" level="1" id="ycvdzIFP2po">
-      <externalAccess>false</externalAccess>
-    </organisationUnitLevel>
-    <organisationUnitLevel name="Level 3" created="2015-11-05T20:44:46.166+0000" lastUpdated="2015-11-05T20:44:46.166+0000" level="3" id="xMtvDpqHjIr">
-      <externalAccess>false</externalAccess>
-    </organisationUnitLevel>
-    <organisationUnitLevel name="Level 2" created="2015-11-05T20:44:46.170+0000" lastUpdated="2015-11-05T20:44:46.170+0000" level="2" id="CqiaDhrikNS">
-      <externalAccess>false</externalAccess>
-    </organisationUnitLevel>
-  </organisationUnitLevels>
+  
+  
   <sqlViews>
     <sqlView name="Stock Balance - Descendents" created="2016-01-25T12:00:20.464+0000" lastUpdated="2016-01-25T12:00:20.464+0000" id="CraSsUTG2aw">
       <externalAccess>false</externalAccess>
@@ -3138,23 +3000,7 @@ group by de.name, psi.executiondate</sqlQuery>
           <dataDimensionItemType>PROGRAM_INDICATOR</dataDimensionItemType>
         </dataDimensionItem>
       </dataDimensionItems>
-      <organisationUnits>
-        <organisationUnit name="Linda Clinic" created="2015-11-05T19:52:29.092+0000" lastUpdated="2016-05-13T13:55:03.787+0000" shortName="Linda Clinic" id="DQjaNvP9ulw">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Maramba Clinic" created="2015-11-05T19:52:16.689+0000" lastUpdated="2016-05-13T14:17:55.197+0000" shortName="Maramba Clinic" id="WxEt7wHRNeW">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-        <organisationUnit name="Simoonga Clinic" created="2015-11-05T19:52:55.764+0000" lastUpdated="2015-11-05T19:52:55.768+0000" shortName="Simoonga Clinic" id="ozvn5V1CkYM">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-        <organisationUnit name="Victoria Falls Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2015-11-05T19:52:39.483+0000" shortName="Victoria Falls Clinic" id="LWjoKmGc00n">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-      </organisationUnits>
+      
       <periods>
         <period>
           <id>2015</id>
@@ -3227,12 +3073,7 @@ group by de.name, psi.executiondate</sqlQuery>
           <dataDimensionItemType>PROGRAM_INDICATOR</dataDimensionItemType>
         </dataDimensionItem>
       </dataDimensionItems>
-      <organisationUnits>
-        <organisationUnit name="Zambia" created="2015-11-05T19:50:51.203+0000" lastUpdated="2015-11-05T19:50:51.214+0000" shortName="Zambia" id="AyKRxtQjpGg">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-      </organisationUnits>
+      
       <periods>
         <period>
           <id>201501</id>
@@ -3475,15 +3316,8 @@ group by de.name, psi.executiondate</sqlQuery>
           <dataDimensionItemType>PROGRAM_INDICATOR</dataDimensionItemType>
         </dataDimensionItem>
       </dataDimensionItems>
-      <organisationUnits>
-        <organisationUnit name="Zambia" created="2015-11-05T19:50:51.203+0000" lastUpdated="2015-11-05T19:50:51.214+0000" shortName="Zambia" id="AyKRxtQjpGg">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-      </organisationUnits>
-      <organisationUnitLevels>
-        <organisationUnitLevel>4</organisationUnitLevel>
-      </organisationUnitLevels>
+      
+      
       <filterDimensions>
         <filterDimension>pe</filterDimension>
       </filterDimensions>
@@ -3569,15 +3403,8 @@ group by de.name, psi.executiondate</sqlQuery>
           <dataDimensionItemType>PROGRAM_INDICATOR</dataDimensionItemType>
         </dataDimensionItem>
       </dataDimensionItems>
-      <organisationUnits>
-        <organisationUnit name="Zambia" created="2015-11-05T19:50:51.203+0000" lastUpdated="2015-11-05T19:50:51.214+0000" shortName="Zambia" id="AyKRxtQjpGg">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-      </organisationUnits>
-      <organisationUnitLevels>
-        <organisationUnitLevel>4</organisationUnitLevel>
-      </organisationUnitLevels>
+      
+      
       <filterDimensions>
         <filterDimension>pe</filterDimension>
       </filterDimensions>
@@ -3658,23 +3485,7 @@ group by de.name, psi.executiondate</sqlQuery>
           <dataDimensionItemType>PROGRAM_DATA_ELEMENT</dataDimensionItemType>
         </dataDimensionItem>
       </dataDimensionItems>
-      <organisationUnits>
-        <organisationUnit name="Linda Clinic" created="2015-11-05T19:52:29.092+0000" lastUpdated="2016-05-13T13:55:03.787+0000" shortName="Linda Clinic" id="DQjaNvP9ulw">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Maramba Clinic" created="2015-11-05T19:52:16.689+0000" lastUpdated="2016-05-13T14:17:55.197+0000" shortName="Maramba Clinic" id="WxEt7wHRNeW">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-        <organisationUnit name="Simoonga Clinic" created="2015-11-05T19:52:55.764+0000" lastUpdated="2015-11-05T19:52:55.768+0000" shortName="Simoonga Clinic" id="ozvn5V1CkYM">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-        <organisationUnit name="Victoria Falls Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2015-11-05T19:52:39.483+0000" shortName="Victoria Falls Clinic" id="LWjoKmGc00n">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-      </organisationUnits>
+      
       <periods>
         <period>
           <id>201601</id>
@@ -4041,23 +3852,7 @@ group by de.name, psi.executiondate</sqlQuery>
           <dataDimensionItemType>PROGRAM_DATA_ELEMENT</dataDimensionItemType>
         </dataDimensionItem>
       </dataDimensionItems>
-      <organisationUnits>
-        <organisationUnit name="Simoonga Clinic" created="2015-11-05T19:52:55.764+0000" lastUpdated="2015-11-05T19:52:55.768+0000" shortName="Simoonga Clinic" id="ozvn5V1CkYM">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-        <organisationUnit name="Victoria Falls Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2015-11-05T19:52:39.483+0000" shortName="Victoria Falls Clinic" id="LWjoKmGc00n">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-        <organisationUnit name="Linda Clinic" created="2015-11-05T19:52:29.092+0000" lastUpdated="2016-05-13T13:55:03.787+0000" shortName="Linda Clinic" id="DQjaNvP9ulw">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Maramba Clinic" created="2015-11-05T19:52:16.689+0000" lastUpdated="2016-05-13T14:17:55.197+0000" shortName="Maramba Clinic" id="WxEt7wHRNeW">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-      </organisationUnits>
+      
       <periods>
         <period>
           <id>201601</id>
@@ -4189,12 +3984,7 @@ group by de.name, psi.executiondate</sqlQuery>
           <dataDimensionItemType>PROGRAM_INDICATOR</dataDimensionItemType>
         </dataDimensionItem>
       </dataDimensionItems>
-      <organisationUnits>
-        <organisationUnit name="Zambia" created="2015-11-05T19:50:51.203+0000" lastUpdated="2015-11-05T19:50:51.214+0000" shortName="Zambia" id="AyKRxtQjpGg">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-      </organisationUnits>
+      
       <columnDimensions>
         <columnDimension>pe</columnDimension>
       </columnDimensions>
@@ -4379,12 +4169,7 @@ group by de.name, psi.executiondate</sqlQuery>
           <dataDimensionItemType>PROGRAM_INDICATOR</dataDimensionItemType>
         </dataDimensionItem>
       </dataDimensionItems>
-      <organisationUnits>
-        <organisationUnit name="Zambia" created="2015-11-05T19:50:51.203+0000" lastUpdated="2015-11-05T19:50:51.214+0000" shortName="Zambia" id="AyKRxtQjpGg">
-          <externalAccess>false</externalAccess>
-          <description/>
-        </organisationUnit>
-      </organisationUnits>
+      
       <columnDimensions>
         <columnDimension>pe</columnDimension>
       </columnDimensions>
@@ -4420,23 +4205,7 @@ group by de.name, psi.executiondate</sqlQuery>
       <useFirstStageDuringRegistration>false</useFirstStageDuringRegistration>
       <registration>false</registration>
       <withoutRegistration>true</withoutRegistration>
-      <organisationUnits>
-        <organisationUnit name="Test Clinic 1" created="2016-06-02T18:31:11.426+0000" lastUpdated="2016-06-03T09:25:57.628+0000" id="PfYyF3qDRTi">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Victoria Falls Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2015-11-05T19:52:39.483+0000" id="LWjoKmGc00n">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Simoonga Clinic" created="2015-11-05T19:52:55.764+0000" lastUpdated="2015-11-05T19:52:55.768+0000" id="ozvn5V1CkYM">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Maramba Clinic" created="2015-11-05T19:52:16.689+0000" lastUpdated="2016-05-13T14:17:55.197+0000" id="WxEt7wHRNeW">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Linda Clinic" created="2015-11-05T19:52:29.092+0000" lastUpdated="2016-05-13T13:55:03.787+0000" id="DQjaNvP9ulw">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-      </organisationUnits>
+      
       <programStages>
         <programStage name="Birth notifications" created="2016-04-29T15:21:29.993+0000" lastUpdated="2016-05-27T12:36:34.913+0000" id="B1Ha5psjfRJ">
           <externalAccess>false</externalAccess>
@@ -4474,32 +4243,7 @@ group by de.name, psi.executiondate</sqlQuery>
       <useFirstStageDuringRegistration>false</useFirstStageDuringRegistration>
       <registration>true</registration>
       <withoutRegistration>false</withoutRegistration>
-      <organisationUnits>
-        <organisationUnit name="Test Clinic 1" created="2016-06-02T18:31:11.426+0000" lastUpdated="2016-06-03T09:25:57.628+0000" id="PfYyF3qDRTi">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Victoria Falls Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2015-11-05T19:52:39.483+0000" id="LWjoKmGc00n">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Libuyu Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2016-05-19T12:30:32.362+0000" id="UXJOGvwTTrd">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Simoonga Clinic" created="2015-11-05T19:52:55.764+0000" lastUpdated="2015-11-05T19:52:55.768+0000" id="ozvn5V1CkYM">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Mahatma Gandhi Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2016-05-13T14:10:31.938+0000" id="onQXFD1z01A">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Test Clinic 2" created="2016-06-02T18:31:11.426+0000" lastUpdated="2016-06-03T09:26:17.276+0000" id="cPsaTUefLki">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Maramba Clinic" created="2015-11-05T19:52:16.689+0000" lastUpdated="2016-05-13T14:17:55.197+0000" id="WxEt7wHRNeW">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Linda Clinic" created="2015-11-05T19:52:29.092+0000" lastUpdated="2016-05-13T13:55:03.787+0000" id="DQjaNvP9ulw">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-      </organisationUnits>
+      
       <programStages>
         <programStage name="Immunization" created="2015-11-05T20:43:11.888+0000" lastUpdated="2016-05-27T12:00:17.034+0000" id="s53RFfXA75f">
           <externalAccess>false</externalAccess>
@@ -4729,38 +4473,7 @@ group by de.name, psi.executiondate</sqlQuery>
       <useFirstStageDuringRegistration>false</useFirstStageDuringRegistration>
       <registration>false</registration>
       <withoutRegistration>true</withoutRegistration>
-      <organisationUnits>
-        <organisationUnit name="Test Clinic 1" created="2016-06-02T18:31:11.426+0000" lastUpdated="2016-06-03T09:25:57.628+0000" id="PfYyF3qDRTi">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Victoria Falls Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2015-11-05T19:52:39.483+0000" id="LWjoKmGc00n">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Libuyu Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2016-05-19T12:30:32.362+0000" id="UXJOGvwTTrd">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Livingstone District" created="2015-11-05T19:51:28.631+0000" lastUpdated="2015-11-05T19:51:28.636+0000" id="GUhbn1R8q6w">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Simoonga Clinic" created="2015-11-05T19:52:55.764+0000" lastUpdated="2015-11-05T19:52:55.768+0000" id="ozvn5V1CkYM">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Mahatma Gandhi Clinic" created="2015-11-05T19:52:39.478+0000" lastUpdated="2016-05-13T14:10:31.938+0000" id="onQXFD1z01A">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Southern Province" created="2015-11-05T19:51:11.305+0000" lastUpdated="2015-11-05T19:51:11.309+0000" id="MClooR8Tjs6">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Test Clinic 2" created="2016-06-02T18:31:11.426+0000" lastUpdated="2016-06-03T09:26:17.276+0000" id="cPsaTUefLki">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Maramba Clinic" created="2015-11-05T19:52:16.689+0000" lastUpdated="2016-05-13T14:17:55.197+0000" id="WxEt7wHRNeW">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-        <organisationUnit name="Linda Clinic" created="2015-11-05T19:52:29.092+0000" lastUpdated="2016-05-13T13:55:03.787+0000" id="DQjaNvP9ulw">
-          <externalAccess>false</externalAccess>
-        </organisationUnit>
-      </organisationUnits>
+      
       <programStages>
         <programStage name="Stock control card" created="2015-11-24T08:49:45.216+0000" lastUpdated="2016-05-27T12:36:54.224+0000" id="tjFzBT4dKBE">
           <externalAccess>false</externalAccess>

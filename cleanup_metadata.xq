@@ -10,7 +10,12 @@ Usage Example:
 
 copy $dxf := fetch:xml($file, map { 'xinclude': false() })/dxf:metaData
 modify (
-  for $e in ( $dxf//dxf:users, $dxf//dxf:user ,  $dxf//dxf:userObject)
+  let $dels := ( 
+      $dxf//dxf:users, $dxf//dxf:user ,  $dxf//dxf:userObject , 
+      $dxf//dxf:organisationUnits, $dxf//dxf:organisationUnit, 
+      $dxf//dxf:organisationUnitLevels,       $dxf//dxf:organisationUnitLevel
+	 )
+  for $e in $dels 
     return delete node $e
 )
 
